@@ -1,0 +1,20 @@
+.DS_Store
+# Working files kept locally, not published
+_archive/
+assets/old/
+designs/
+# Photos deliberately left off the site
+assets/img/abigale.jpg
+assets/img/obama.jpg
+assets/img/bjcp.png
+
+# Only images referenced by content.js/index.html are tracked; everything else in assets/img stays local
+assets/img/abigale.jpg
+assets/img/all-the-things-bw1.jpg
+assets/img/bjcp.png
+assets/img/boulder.jpg
+assets/img/ear.jpg
+assets/img/gun.jpg
+assets/img/img_3105.jpg
+assets/img/img_3255.jpg
+assets/img/obama.jpg
