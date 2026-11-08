@@ -38,7 +38,7 @@ window.SITE = {
     { value: "15+", label: "Years in go-to-market" },
     { value: "10x", label: "JumpCloud revenue while I was there" },
     { value: "20+", label: "Conferences worked or spoken at" },
-    { value: "1,100+", label: "People trained across 70+ courses at Rally" }
+    { value: "3", label: "Hack4CO awards in one weekend for Craft Boom" }
   ],
 
   experience: [
