@@ -38,7 +38,7 @@ window.SITE = {
     { value: "15+", label: "Years in go-to-market" },
     { value: "10x", label: "JumpCloud revenue while I was there" },
     { value: "20+", label: "Conferences worked or spoken at" },
-    { value: "3", label: "Hack4CO awards in one weekend for Craft Boom" }
+    { value: "3", label: "Hack4CO awards for Craft Boom, including Best in Show" }
   ],
 
   experience: [
