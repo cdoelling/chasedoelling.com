@@ -16,7 +16,7 @@ window.SITE = {
   hero: {
     video: "", // e.g. "assets/video/hero.mp4"
     poster: "assets/img/grey-denver.jpg",
-    kicker: "Hi, I'm Chase",
+    kicker: "Hi, I'm",
     line: "You look great today."
   },
 
@@ -30,8 +30,8 @@ window.SITE = {
 
   about: [
     "Go-to-market operator across B2B SaaS: identity, security, integrations, DevOps and agile. Three venture-backed startups with a Fortune 500 exit squeezed in the middle.",
-    "I started in field marketing, ran alliances and channel, evangelized on stages from Stockholm to Google NEXT, and most recently led JumpCloud's global product marketing team. Now I'm building Sandcastle Labs with Brian Wones and Nick Bair.",
-    "Colorado native. Certified beer judge, occasional triathlete, reliable purveyor of doughnuts."
+    "I started in field marketing, ran alliances and channel, evangelized on stages from Stockholm to Google NEXT, and most recently led JumpCloud's global product marketing team. Now I'm building Sandcastle Labs.",
+    { text: "Colorado native. Golfer when possible and purveyor of rice rolls.", link: { text: "rice rolls", href: "https://nicerice.org" } }
   ],
 
   stats: [
